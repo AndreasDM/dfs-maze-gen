@@ -1,3 +1,3 @@
 Visualize maze generation (dfs)
 
-![Visualize maze generation](https://i.makeagif.com/media/9-19-2019/273M1t.gif)
+![Visualize maze generation](https://github.com/AndreasDM/dfs-maze-gen/blob/master/mz.gif)
